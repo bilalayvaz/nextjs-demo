@@ -30,7 +30,7 @@ function NewMeetup() {
           content="Add your own meetups and create amazing networking oppotunities."
         />
       </Head>
-      <NewMeetupForm onAddMeetup={addMeetupHandler} />;
+      <NewMeetupForm onAddMeetup={addMeetupHandler} />
     </Fragment>
   );
 }
