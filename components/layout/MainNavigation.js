@@ -8,11 +8,11 @@ function MainNavigation() {
       <nav>
         <ul>
           <li>
-            <Link href="/">All Projects</Link>
+            <Link href="/">My Projects</Link>
           </li>
-           <li>
+          {/* <li>
             <Link href="/new-meetup">Add New Meetup</Link>
-          </li> 
+          </li> */}
         </ul>
       </nav>
     </header>
